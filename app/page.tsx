@@ -11,6 +11,7 @@ export default async function Home() {
     return (
         <div>
             {userDetails.email}
+            <br />
             {userDetails.name}
         </div>
     );
