@@ -42,7 +42,7 @@ Follow these steps to set up and run the project locally.
 1.  Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/GeekNoob04/nextjs-backend-cohort
     cd <project_directory>
     ```
 
